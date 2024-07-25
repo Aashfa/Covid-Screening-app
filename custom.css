@@ -1,3 +1,10 @@
+.modal-body-question img {
+  width: 70%; 
+  height: auto; 
+  display: block;
+  margin: 0 auto; 
+}
+
 .img-logo {
   width: 65px;
 }

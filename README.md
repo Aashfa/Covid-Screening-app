@@ -66,6 +66,4 @@ http://localhost:8000
 
 This tool is intended for general awareness and educational use. It is not a substitute for professional medical advice, diagnosis, or treatment. If you have serious symptoms or medical concerns, consult a healthcare professional.
 
-## License
 
-This project does not currently include a license file. If you want, you can add one such as MIT or GPL.

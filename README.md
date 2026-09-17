@@ -1,7 +1,8 @@
 # Covid Screening App
 
 A lightweight static web app for a COVID-19 self-assessment screening flow. The app presents a short questionnaire, gives symptom-based guidance, and explains prevention and general COVID-19 information in a user-friendly interface.
-<img width="371" height="412" alt="Screenshot 2026-09-17 173632" src="https://github.com/user-attachments/assets/e34eefa5-02c9-45cf-b33c-65f9a3c8a877" /><img width="311" height="437" alt="Screenshot 2026-09-17 173649" src="https://github.com/user-attachments/assets/10415788-0411-4258-a343-e81e72d9f471" />
+<img width="371" height="412" alt="Screenshot 2026-09-17 173632" src="https://github.com/user-attachments/assets/e34eefa5-02c9-45cf-b33c-65f9a3c8a877" /><img width="311" height="437" alt="Screenshot 2026-09-17 173649" src="https://github.com/user-attachments/assets/10415788-0411-4258-a343-e81e72d9f471" /><img width="332" height="284" alt="Screenshot 2026-09-17 173727" src="https://github.com/user-attachments/assets/c477797f-b90c-4ec9-b906-ff2de1a6dbd2" />
+
 
 
 ## Live Demo
